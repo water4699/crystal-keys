@@ -7,7 +7,7 @@ import { Footer } from "@/components/Footer";
 import { BookCard } from "@/components/BookCard";
 import { PublisherForm } from "@/components/PublisherForm";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { BookOpen, Library, ShieldCheck, Sparkles, Lock, Users, TrendingUp } from "lucide-react";
+import { BookOpen, Library, ShieldCheck, Sparkles, Users, TrendingUp } from "lucide-react";
 import { Toaster } from "@/components/ui/toaster";
 import { useBookRights, type Book } from "@/hooks/useBookRights";
 
